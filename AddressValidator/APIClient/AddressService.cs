@@ -11,8 +11,8 @@ namespace AddressValidator.APIClient
     /// </summary>
     public class AddressService
     {
+        private const string API_KEY = "YOUR_KEY_HERE";
         private const string API_BASE_URL = "https://api.address-validator.net/api/verify/";
-        private const string API_KEY = "av-21a50c0fa3fde35755a857584fb17f57";
         private readonly IRestClient client = new RestClient();
 
         /// <summary>
@@ -68,7 +68,7 @@ namespace AddressValidator.APIClient
             }
             else
             {
-                validatedAddress = address.Status;
+                validatedAddress = "Invalid Address";
             }
 
 
