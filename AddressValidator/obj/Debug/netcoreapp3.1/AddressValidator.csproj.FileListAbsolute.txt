@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\AddressValidator.exe
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\AddressValidator.deps.json
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\AddressValidator.runtimeconfig.json
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\AddressValidator.runtimeconfig.dev.json
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\AddressValidator.dll
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\AddressValidator.pdb
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.AssemblyInfo.cs
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.csproj.CopyComplete
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.dll
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.pdb
+C:\Users\Student\source\repos\AddressValidator\AddressValidator\obj\Debug\netcoreapp3.1\AddressValidator.genruntimeconfig.cache

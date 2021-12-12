@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QX86gf8ppSuFI982C7+QIlq64IxGuwCuSBc6in/7gEpxLZjJtpCPC8qPW4OE+2tf6xf6wgmVXjwOMShru9v8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\AddressValidator\\AddressValidator\\AddressValidator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
