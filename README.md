@@ -1,6 +1,6 @@
 # AddressValidator
 
-AddressValidator is a C# console application for validating address through use of an external API.
+AddressValidator is a C# console application for validating address through use of an external API. This application reads addresses from input.csv and sends them to an external API for validation. The response contains a validated address, which is written to output.csv along with original address that was sent to the API.
 
 
 ## Installation
