@@ -28,7 +28,7 @@ describe("validateAddresses", () => {
 
     const expectedResponse = { success: true };
 
-    (axios.post as jest.Mock).mockResolvedValueOnce({
+    axios.post = jest.fn().mockResolvedValueOnce({
       data: expectedResponse,
     });
 
@@ -48,7 +48,7 @@ describe("validateAddresses", () => {
   it("should throw an error if the API call fails", async () => {
     const expectedError = new Error("API call failed");
 
-    (axios.post as jest.Mock).mockRejectedValueOnce(expectedError);
+    axios.post = jest.fn().mockRejectedValueOnce(expectedError);
 
     await expect(
       ValidateAddresses(addresses, authId, authToken)

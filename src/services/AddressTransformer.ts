@@ -24,7 +24,7 @@ const TranformAddresses = (
           : ""
       }`;
     } else {
-      return `${address.street}, ${address.city}, ${address.zipcode} -> Invalid address`;
+      return `${address.street}, ${address.city}, ${address.zipcode} -> Invalid Address`;
     }
   });
 

@@ -56,8 +56,8 @@ describe("TransformAddresses", () => {
     const invalidValidatedAddresses: any[] = [];
 
     const expectedTransformedAddresses = [
-      "123 Main St, Anytown, 12345 -> Invalid address",
-      "456 Oak Ave, Othertown, 67890 -> Invalid address",
+      "123 Main St, Anytown, 12345 -> Invalid Address",
+      "456 Oak Ave, Othertown, 67890 -> Invalid Address",
     ];
 
     const transformedAddresses = TransformAddresses(
