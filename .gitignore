@@ -32,13 +32,10 @@ dist/
 # User-specific files
 .npmrc
 .npm/
-yarn.lock
 .pnpm*
 .eslintcache
 .flowconfig
 .jest-cache
-.jest.config.js
-jest.setup.js
 coverage/
 *.seed
 *.log
