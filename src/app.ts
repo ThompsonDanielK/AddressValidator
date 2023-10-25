@@ -2,7 +2,7 @@ import ParseCSV from "./data/CsvParser";
 import TransformAddresses from "./services/AddressTransformer";
 import ValidateAddresses from "./services/AddressValidatorClient";
 
-const main = async () => {
+const main = async (): Promise<void> => {
   try {
     const args = process.argv.slice(2);
 
@@ -26,7 +26,7 @@ const main = async () => {
       parsedAddresses,
       validatedAddresses
     );
-    // Do something with validatedAddresses, for example, log them
+
     console.log("Transformed Addresses:", transformedAddresses);
   } catch (error) {
     console.error("Error:", error);
