@@ -114,4 +114,4 @@ Running the program with the above input will produce the following output:
 
 3. Output to console
 
-- This app could be configured to write to an output.csv, I did not do so because it was not specified. In a real development scenario I would get clarification for this requirement.
+- This app could be configured to write to an output.csv, depending on the requirements.
