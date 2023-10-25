@@ -3,7 +3,7 @@ import { Address } from "../data/CsvParser";
 const TranformAddresses = (
   parsedAddresses: Address[],
   validatedAddresses: any[]
-) => {
+): string[] => {
   const transformedAddresses = parsedAddresses.map((address, index) => {
     const validatedAddress = validatedAddresses.find(
       (validatedAddress: any) => {
